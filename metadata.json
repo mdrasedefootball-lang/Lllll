@@ -1,0 +1,6 @@
+{
+  "name": "Coloring Studio",
+  "description": "Kid-friendly digital coloring studio with interactive vector tap-to-fill, 24 vibrant colors, undo/redo, zoom/pan canvas, and PNG masterpiece export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
